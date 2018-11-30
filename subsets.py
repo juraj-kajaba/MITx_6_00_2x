@@ -17,4 +17,4 @@ def getAllSubsets(inputSet):
 	return result
 
 
-print(getAllSubsets([1,2]))
+print(getAllSubsets([1,2,3,4]))
